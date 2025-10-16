@@ -26,7 +26,6 @@ Users can:
 
 A companion **Driver App** updates each bus’s location every **3 seconds**, ensuring accurate tracking for passengers.
 
----
 
 ## 🧩 Features
 
@@ -39,7 +38,6 @@ A companion **Driver App** updates each bus’s location every **3 seconds**, en
 - ⚙️ **MVVM Architecture** – Clean separation of concerns for scalability and maintainability.  
 - 🌐 **Backend Integration** – Uses REST APIs for communication between apps and server.  
 
----
 
 ## 🛠️ Tech Stack
 
@@ -51,7 +49,6 @@ A companion **Driver App** updates each bus’s location every **3 seconds**, en
 | **Dependency Injection** | Hilt |
 | **State Management** | ViewModel + Immutable State Classes |
 
----
 
 ## 🧑‍💻 How It Works
 
@@ -60,7 +57,7 @@ A companion **Driver App** updates each bus’s location every **3 seconds**, en
 3. **Bussatthi App (Passenger):** Fetches data from the backend and displays active buses on the map, filtered by the selected destination.  
 4. **User Experience:** Passengers can choose a bus, view its ETA, and track it live until arrival.  
 
----
+
 
 ## 🌟 Future Enhancements
 
@@ -69,7 +66,7 @@ A companion **Driver App** updates each bus’s location every **3 seconds**, en
 - 🔔 Push notifications for bus arrival alerts.  
 - 📶 Offline caching for low-network areas.  
 
----
+
 
 ## 🤝 Contributing
 
