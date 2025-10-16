@@ -5,13 +5,13 @@ It solves the problem of *missing government buses* by providing **real-time bus
 
 ## 🎥 Working Demo
 
-📺 **Watch the full demo video here:**  
-👉 [Demo Video Link](#) *(Add your video link here)*
+📺 **Watch the full video here:**  
+👉 [Working Video Link](https://drive.google.com/file/d/1S1yZbXOTsgJozRmgPgEwN81wn5ncznyr/view?usp=sharing)
 
 ## 🔗 Related Repositories
 
-- 🧠 **Backend Repo:** [Bussatthi Backend](#)  
-- 🚍 **Driver App Repo:** [Bussatthi Driver App](#)
+- 🧠 **Backend Repo:** [Bussatthi Backend](https://github.com/karan3613/BusAppBackend)  
+- 🚍 **Driver App Repo:** [Bussatthi Driver App](https://github.com/karan3613/DriverApp)
 
   
 ## 🚀 Overview
@@ -46,14 +46,10 @@ A companion **Driver App** updates each bus’s location every **3 seconds**, en
 | Layer | Technologies |
 |-------|---------------|
 | **Frontend (Passenger App)** | Kotlin, Jetpack Compose, MVVM, Retrofit, Google Maps API |
-| **Backend** | Node.js / Express / MongoDB *(see link below)* |
+| **Backend** | Python / MySQL / Kafka  |
 | **Driver App** | Kotlin, MVVM, Location Services, Retrofit |
 | **Dependency Injection** | Hilt |
 | **State Management** | ViewModel + Immutable State Classes |
-
----
-
-
 
 ---
 
