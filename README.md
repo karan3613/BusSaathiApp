@@ -3,7 +3,7 @@
 **Bussatthi** is a modern Android application built using **Kotlin** and **Jetpack Compose**, following the **MVVM architecture**.  
 It solves the problem of *missing government buses* by providing **real-time bus tracking** and **smart route suggestions**, ensuring you’ll *never miss your bus again!*  
 
-## 🎥 Working Demo
+## 🎥 Working 
 
 📺 **Watch the full video here:**  
 👉 [Working Video Link](https://drive.google.com/file/d/1S1yZbXOTsgJozRmgPgEwN81wn5ncznyr/view?usp=sharing)
