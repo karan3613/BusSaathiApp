@@ -1,6 +1,6 @@
-# 🚌 Bussatthi – Real-Time Government Bus Tracking App
+# 🚌 BusSaathi – Real-Time Government Bus Tracking App
 
-**Bussatthi** is a modern Android application built using **Kotlin** and **Jetpack Compose**, following the **MVVM architecture**.  
+**BusSaathi** is a modern Android application built using **Kotlin** and **Jetpack Compose**, following the **MVVM architecture**.  
 It solves the problem of *missing government buses* by providing **real-time bus tracking** and **smart route suggestions**, ensuring you’ll *never miss your bus again!*  
 
 ## 🎥 Working 
@@ -10,8 +10,8 @@ It solves the problem of *missing government buses* by providing **real-time bus
 
 ## 🔗 Related Repositories
 
-- 🧠 **Backend Repo:** [Bussatthi Backend](https://github.com/karan3613/BusAppBackend)  
-- 🚍 **Driver App Repo:** [Bussatthi Driver App](https://github.com/karan3613/DriverApp)
+- 🧠 **Backend Repo:** [BusSaathi Backend](https://github.com/karan3613/BusAppBackend)  
+- 🚍 **Driver App Repo:** [BusSaathi Driver App](https://github.com/karan3613/DriverApp)
 
   
 ## 🚀 Overview
